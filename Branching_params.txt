@@ -1,0 +1,3 @@
+vaccination_prob=0.5
+quarantine_prob=10
+safe_practices_prob=0.4

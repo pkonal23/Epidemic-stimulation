@@ -1,0 +1,2 @@
+vaccination_rate=1
+protective_measures_rate=1

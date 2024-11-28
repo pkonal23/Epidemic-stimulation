@@ -1,0 +1,4 @@
+quarantine_time=10
+vaccination_rate=0.5
+vaccination_start=20
+vaccination_speed=0.01

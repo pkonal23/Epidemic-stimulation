@@ -1,0 +1,5 @@
+quarantine_time=1
+reduced_beta=0.671
+vaccination_rate=0.003
+vaccination_start=100
+vaccination_speed=0.002

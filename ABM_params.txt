@@ -1,0 +1,4 @@
+infection_prob=0.8
+recovery_prob=0.7
+vaccination_prob=0.5
+quarantine_prob=10

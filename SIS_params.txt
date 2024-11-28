@@ -1,0 +1,4 @@
+avoid_contact_factor=0.2
+health_checkup_factor=0.3
+vaccination_factor=1
+safe_practices_factor=0.4
